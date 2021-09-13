@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kindl1990
+- 👋 Hi, I’m Jiri Kindl
 - 👀 I’m interested in Python, Javascript, Typescript, Django, MySQL, PHP, HTML5, CSS3, Angular, React
-- 🌱 I’m currently learning Python, MySQL
+- 🌱 I’m currently learning Python, Django, Angular, MySQL
 - 💞️ I’m looking to collaborate on remote project in Python.
 - 📫 How to reach me kindljiri1990@gmail.com
 
